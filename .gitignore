@@ -1,0 +1,32 @@
+.idea
+
+# trash directory
+/trash
+
+# log files
+*.log
+/client/logs
+
+# local env files
+.env
+.env*.local
+
+# next.js
+client/.env
+client/.next
+
+# node modules
+/node_modules
+/client/node_modules
+
+# truffle build
+/build/*
+/client/ethereum/contracts/*
+
+# misc
+.DS_Store
+*.pem
+
+# typescript
+client/*.tsbuildinfo
+client/next-env.d.ts

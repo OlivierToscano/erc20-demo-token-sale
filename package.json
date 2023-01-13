@@ -1,0 +1,17 @@
+{
+  "name": "tokensale",
+  "version": "1.0.0",
+  "description": "ERC20 Token sale project",
+  "keywords": ["ERC20", "TOKEN", "NEXTJS", "WEB3", "TRUFFLE", "TYPESCRIPT", "NEXTJS"],
+  "author": "Olivier Toscano",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "@truffle/hdwallet-provider": "^2.1.4",
+    "dotenv": "^16.0.3",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.6.1"
+  }
+}
